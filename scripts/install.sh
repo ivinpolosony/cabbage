@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cloneurl="https://github.com/senny/cabbage.git"
+cloneurl="https://github.com/ivinpolosony/cabbage.git"
 confdir=$HOME/.emacs.d
 
 
